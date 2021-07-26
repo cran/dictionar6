@@ -1,0 +1,17 @@
+22e213ffdec652dc89fd568a933659aa *DESCRIPTION
+c117f4eabed473f2c6469698b954d5c4 *LICENSE
+63b2ad8f353be17a5870fb445f55879b *NAMESPACE
+f1b574825686b41f892f61f79429bb00 *NEWS.md
+ca0ade204e32293ab7c76d80716ae25d *R/Dictionary.R
+6c129b79e47eaafda97c8c2f082529f9 *R/Dictionary_S3methods.R
+860e726fe063e6e9006cf89dd56ffe95 *R/Dictionary_methods.R
+d23d6f4c193935c7c9ad2c09e61fd913 *R/dct.R
+b81847c047f3f248677ad34caeced583 *R/helpers.R
+292db7922c36f14392569048846fe05f *R/zzz.R
+ec3e82da845da353ea696c24ac787d5b *README.md
+6a25d2dddfe6495524046774af5a054a *man/Dictionary.Rd
+e1dc705c09aa07b5f9be93c7a3a93f21 *man/dct.Rd
+9380c03eee371330af99389ead5a4b5d *man/figures/logo.png
+316998a801e28bf8c540fe8b6ff06235 *tests/testthat.R
+d05e3bb2573d9786bacb7342c225f6e5 *tests/testthat/test-Dictionary.R
+97e6baed2e184c1285ad51cf2866e0cb *tests/testthat/test-helpers.R
